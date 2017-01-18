@@ -1,3 +1,3 @@
 # FFT
 
-Just minimal FFT/IFFT methods
+Just minimal FFT/IFFT methods, optimized for real inputs
